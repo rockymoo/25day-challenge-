@@ -32,16 +32,16 @@ wire [3:0] m0; // 4bit also a vector
 
 
 
-#### verilog string types example 1
+### 1 example  verilog string types
 in given example below "system verilog" string type which 14bytes in lengeth where str1(14 bytes) completely display , str2(7bytes) only lsb part ie verilog is diplayed ,str3(20bytes)
 completely displayed but msb part ie 6 bytes is empty if filled with zeros.
 ![STRINGDATATYPE](https://github.com/rockymoo/25day-challenge-/assets/126293037/1b321428-9ebb-4d1d-af8c-9f3d7b397909)
 
 
 
-#### string with compare example 2
+### 2 example string with compare 
 
-
+in given example compare(>,< ) and also multiplication {3{_______}} are used 
 
 ![stringtypewithcompare](https://github.com/rockymoo/25day-challenge-/assets/126293037/cdf0d0b5-082b-4a15-86e6-b17a1cffdcc3)
 

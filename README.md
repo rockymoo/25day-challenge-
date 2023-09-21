@@ -45,6 +45,9 @@ in given example compare(>,< ) and also multiplication {3{_______}} are used
 
 ![stringtypewithcompare](https://github.com/rockymoo/25day-challenge-/assets/126293037/cdf0d0b5-082b-4a15-86e6-b17a1cffdcc3)
 
+#### compare types
+
+![stringcampareall](https://github.com/rockymoo/25day-challenge-/assets/126293037/fffebd44-e7ef-4cc2-875e-2a66fa227750)
 
 
 ## DAY 1

@@ -49,5 +49,20 @@ in given example compare(>,< ) and also multiplication {3{_______}} are used
 
 ![stringcampareall](https://github.com/rockymoo/25day-challenge-/assets/126293037/fffebd44-e7ef-4cc2-875e-2a66fa227750)
 
+### system verilog integer 
+in 2-state integer 
+#### integer
+          integers are numbers without fractional part or they are whole numbers, in system verilog has 3 type integers 
+          shortint (-32768 to 32767)
+          int  (-2147483648 to 2147483647)
+          longint(-4294967298 to 4294967297)
+          the signed and unsigend can be explicitely defined 
+
+### sigend int types
+![signedinteger](https://github.com/rockymoo/25day-challenge-/assets/126293037/dc8bf755-a5d9-4542-9cdf-10bf054c1377)
+
+### unsigend int types
+![unsigenedinteger](https://github.com/rockymoo/25day-challenge-/assets/126293037/e13bbf42-d589-4f74-99d9-70d3b25bc400)
+
 
 ## DAY 1

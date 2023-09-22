@@ -37,6 +37,9 @@ in given example below "system verilog" string type which 14bytes in lengeth whe
 completely displayed but msb part ie 6 bytes is empty if filled with zeros.
 ![STRINGDATATYPE](https://github.com/rockymoo/25day-challenge-/assets/126293037/1b321428-9ebb-4d1d-af8c-9f3d7b397909)
 
+string type execution each char in seprate using "foreach" 
+![stringline](https://github.com/rockymoo/25day-challenge-/assets/126293037/b0f22fc8-1f36-403c-920d-25117a189fdf)
+
 
 
 ### 2 example string with compare 
